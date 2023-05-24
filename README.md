@@ -7,3 +7,4 @@ Make sure you have the latest version of python3 installed as well as the proper
   cd GameState
   python3 ProcessGameState.py
 ```
+Otherwise, you can use an IDE such as PyCharm or VSCode to run the program.
