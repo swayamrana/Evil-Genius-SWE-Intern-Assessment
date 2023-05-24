@@ -1,7 +1,7 @@
 One way we can allow the coaching staff to acquire the output for themselevs is to create a friendly, easy to access 
 UI coupled with a backend REST API. the Frontend of our UI could be built in langauges such as JavaScript, HTML, and CSS. 
 The backend of our solution would utilize frameworks such as Django and Ruby on Rails. The REST API will receive incoming 
-requests from our UI and produce the correct outpout given our ProcessGameState Python script. Given the types of requests
+requests from our UI and produce the correct output given our ProcessGameState Python script. Given the types of requests
 that we want our solution to handle, we will have to alter our UI and backend accordingly. After finishing these 
 components, we can deploy our working project onto a cloud or web service of our choice. Since we are only handling
 requests from one class, this project should not take too much time.
